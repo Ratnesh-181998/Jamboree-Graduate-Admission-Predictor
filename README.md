@@ -50,6 +50,12 @@ Jamboree has helped thousands of students achieve top scores in GMAT, GRE, and S
 - **Students:** Realistic admission probability estimates before applying
 - **Jamboree:** Data-driven counseling and personalized preparation roadmaps
 - **Education Sector:** Understanding key factors influencing graduate admissions
+  
+---
+## 🎬 Demo
+- **Streamlit Profile** - https://share.streamlit.io/user/ratnesh-181998
+- **Project Demo** - https://jamboree-graduate-admission-predictor-4yuy3yewzwvlswr2zthnr7.streamlit.app/
+---
 
 ### 💡 Solution
 
@@ -768,7 +774,7 @@ SOFTWARE.**
 
 ### Project Links
 
-- 🌐 **Live Demo:** [Streamlit Cloud](https://your-app.streamlit.app/)
+- 🌐 **Live Demo:** [Streamlit Cloud](https://jamboree-graduate-admission-predictor-4yuy3yewzwvlswr2zthnr7.streamlit.app/)
 - 📖 **Documentation:** [GitHub Wiki](https://github.com/Ratnesh-181998/Jamboree-Graduate-Admission-Predictor/wiki)
 - 🐛 **Issue Tracker:** [GitHub Issues](https://github.com/Ratnesh-181998/Jamboree-Graduate-Admission-Predictor/issues)
 - 💬 **Discussions:** [GitHub Discussions](https://github.com/Ratnesh-181998/Jamboree-Graduate-Admission-Predictor/discussions)
